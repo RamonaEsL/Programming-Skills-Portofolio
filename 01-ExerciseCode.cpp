@@ -10,4 +10,5 @@ int main() {
 }
 
 
-In order to make the code work I had to use the cout outputalong with the string " Coding is Cool"
+In order to make the code work I had to use the cout output along with the string " Coding is Cool"
+
