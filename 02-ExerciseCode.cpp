@@ -11,4 +11,8 @@ int main() {
     cout << "The sum is: " << sum << endl;
 
     return 0;
+
 }
+Firstly I declared num1 with 8
+    Secondly I declared num2 with 10
+    Afterwards I created sum as the addition of num1 and num2,the result is delivered by using cout output.
