@@ -1,7 +1,6 @@
 #include <iostream>
-using namespace std;                             I got the input for both month number and the year.
-                                                The function isLeapYear(year) applies the standard rule: divisible by 400, or divisible by 4 but not by 100,
-                                                I used  series of if‑else statements to test the program
+using namespace std;                             I got the input for month number. The swich statement rotes the execution to this case
+                                                 
 
 int main() {
     int month;
@@ -27,3 +26,4 @@ int main() {
     return 0;
 
 }
+
