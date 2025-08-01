@@ -1,5 +1,6 @@
-#include <iostream>
-using namespace std;
+#include <iostream>           In this program I used the following varibles delcarations string name,string hometown and int age
+                             which will store the required input. cout<< will display a message asking for input,while cin>> name will read the integer as the name, hometown or age variable
+using namespace std;           The output is printed by the cout statement
 
 int main() {
     string name;
@@ -22,7 +23,7 @@ int main() {
 }
 
 
-#include <iostream>
+#include <iostream>                       using getline allows the program to read a whole line of text including spaces
 using namespace std;
 
 int main() {
@@ -39,4 +40,5 @@ int main() {
    
 
     return 0;
+
 }
