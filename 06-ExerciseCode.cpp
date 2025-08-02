@@ -1,4 +1,4 @@
-#include <iostream>                       I stored the correct pasword in a constant integer,used the variable attempt to hold the user input,used the loop condition
+#include <iostream>                        I stored the correct pasword in a constant integer,used the variable attempt to hold the user input,used the loop condition
 using namespace std;
 
 int main() {
@@ -16,3 +16,4 @@ int main() {
     return 0;
 
 }
+
