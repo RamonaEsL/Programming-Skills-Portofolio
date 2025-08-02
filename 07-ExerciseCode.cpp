@@ -1,6 +1,7 @@
 #include <iostream>
-using namespace std;
-
+using namespace std;                                            I used the loop parts initiation,codition and update.
+                                                                Initiation sets up the loop counter and run oce at start.Condition is checked before each loop,if true the loop runs if false the loop stops.
+                                                                 Update part runs after each iteration,changing the counter towards stopping(got some source from GeeksfromGeeks)
 int main() {
 
     cout << "0 to 50:\n";
@@ -27,3 +28,4 @@ int main() {
 
     return 0;
 }
+
