@@ -1,10 +1,11 @@
 #include <iostream>
-using namespace std;
-
+using namespace std;                                                                I declared a fix size array of names,used a for-loop to check each name one by one(linear search)
+                                                                                If a match is found exits the loop.After the loop programme prints "Sam" (geeksforgeeks help with linear search)
+                                                                                        
 int main() {
     const string names[] = {"Jake", "Zac", "Ian", "Ron", "Sam", "Dave"};
     const int N = sizeof(names) / sizeof(names[0]);
-    string target;
+    string target= "Sam";
 
     cout << "Enter name to search: ";
     cin >> target;
@@ -23,4 +24,5 @@ int main() {
         cout << target << " is not in the list.\n";
 
     return 0;
+
 }
